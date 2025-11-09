@@ -1,0 +1,16 @@
+{
+  "name": "newmanwrapper",
+  "version": "1.0.0",
+  "main": "wrapper.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "newman": "^6.2.1",
+    "puppeteer": "^23.3.0"
+  }
+}
